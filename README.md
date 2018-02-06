@@ -1,8 +1,8 @@
-#Python 3 Cheatsheet
+# Python 3 Cheatsheet
 
-####Fundamentals
+#### Fundamentals
 
-##Comments
+## Comments
 ```
 # comments are done using the hashtag 
 '''
@@ -12,7 +12,7 @@ comments are done using triple quotes (could be single or double quote)
 '''
 ```
 
-##Assignment and Variables
+## Assignment and Variables
 The types of variables are not explicitly defined, the type is implicit. Variables can be assigned to other types. There is no keyword to declare a variable.
 ```
 y = 3
@@ -20,7 +20,7 @@ y = "string"
 y = ['2',44,'hello']
 ```
 
-##Math Operators
+## Math Operators
 ```
 >>> 10 / 2 # regular division (converts to float)
 ... 5.0
@@ -36,9 +36,9 @@ y = ['2',44,'hello']
 ... 100
 ```
 
-####Control Flow
+#### Control Flow
 
-##if, elif, else
+## if, elif, else
 if is one of the most recognizable statements in programming. It appears in some capacitity in 
 almost every programming language.
 
@@ -53,7 +53,7 @@ else:
 # x is more than 3
 ```
 
-##for
+## for
 ```
 words = ['hello', 'python','coders']
 for word in words:
@@ -61,33 +61,33 @@ for word in words:
 ```
 
 
-##while, break, continue
+## while, break, continue
 
-##try, except, finally
+## try, except, finally
 
-##pass
+## pass
 
-##functions
+## functions
 
-####Basic Types
+#### Basic Types
 
-##Booleans
+## Booleans
 
-##Numbers
+## Numbers
 
-##Strings
+## Strings
 
-##Lists
+## Lists
 
-##Tuples
+## Tuples
 
-##Sets
+## Sets
 
-##Dictionaries
+## Dictionaries
 
 
-####Data Types
+#### Data Types
 
-####File IO
+#### File IO
 
-####Object-Oriented Programming                                                                                                                     
+#### Object-Oriented Programming                                                                                                                     
