@@ -1,8 +1,8 @@
-#Python 3 Cheatsheet
+# Python 3 Cheatsheet
 
-####Fundamentals
+#### Fundamentals
 
-##Comments
+## Comments
 ```
 # comments are done using the hashtag 
 '''
